@@ -124,7 +124,7 @@ The maximum-light setting is always enforced to reduce the risk of excessive mem
 
 ### Custom Scene Example
 
-The following horror scene was created using a generated Backrooms environment as its base.
+The environment in this scene was generated with the add-on, while the additional props and scene elements were added manually.
 
 ![Custom Backrooms scene](screenshots/backrooms-custom-scene.png)
 
