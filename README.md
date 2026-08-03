@@ -4,6 +4,16 @@ A procedural Backrooms generator add-on for Blender with configurable layouts, c
 
 ![Generated Backrooms](screenshots/backrooms-generated-layout.png)
 
+---
+
+## Versions
+
+| Version | Description | Download |
+|---|---|---|
+| **v1.0.0** | Initial Level 0 generator release | [View release](https://github.com/KuzeyKayraEyioglu/blender-backrooms-generator/releases/tag/v1.0.0) |
+
+[View all releases](https://github.com/KuzeyKayraEyioglu/blender-backrooms-generator/releases)
+
 ## Features
 
 - Procedural Backrooms layout generation
